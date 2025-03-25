@@ -6,7 +6,7 @@ This project is a Task Management API built with Django and Django REST Framewor
 Installation
 
 1.Clone the repository:
-		git clone https://github.com/yourusername/task-manager.git
+		git clone https://github.com/siyadmohammed/Taskmanager.git
 		cd task-manager
 
 2.Create a virtual environment:
